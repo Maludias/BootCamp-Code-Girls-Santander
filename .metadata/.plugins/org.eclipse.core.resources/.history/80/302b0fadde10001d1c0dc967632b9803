@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class ParImpar {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int qtdNumeros;
+		System.out.println("Digite os números: ");
+		qtdNumeros = sc.nextInt();
+		
+		
+		
+	}
+
+}

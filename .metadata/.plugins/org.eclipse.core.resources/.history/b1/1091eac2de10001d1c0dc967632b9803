@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class ParImpar {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int qtdNumeros;
+		int numero;
+		System.out.println("Digite os números: ");
+		qtdNumeros = sc.nextInt();
+		
+		int count = 0;
+		do {
+		System.out.println("Número");
+		numero = sc.nextInt();
+		
+	}while(count < qtdNumeros);
+
+}

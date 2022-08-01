@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ArrayConsoantes&apos;" deleteContents="false" description="Delete resource &apos;ArrayConsoantes&apos;" element1="/ArrayConsoantes" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1659295574460"/>
+</session>

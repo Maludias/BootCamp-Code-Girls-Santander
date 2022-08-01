@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Consoantes {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String[] consoantes = new String[6];
+		int qtdConsoantes = 0;
+		
+		int count = 0;
+		do {
+			System.out.println("Letra: ");
+			String letra = sc.next();
+			
+			
+		count ++;		
+	}while(count < consoantes.length);
+		System.out.println("Quantidade de Consoantes é: " + consoantes);
+		for(String consoante : consoantes ) {
+			System.out.println(consoante);
+		}
+		
+		System.out.println("Quantidade de Consoantes é: " + qtdConsoantes);
+		
+		sc.close();		
+}
+	
+}
